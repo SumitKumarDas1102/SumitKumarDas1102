@@ -3,19 +3,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Sumit%20Das&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20Engineer%20(Playwright%20%2F%20JavaScript%20%2F%20API%20Automation)&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Sumit%20Das&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20SDET%20Engineer%20(Playwright%20%2F%20JavaScript%20%2F%20API%20Automation)&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/SumitKumarDas1102">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20reliable%20automation%20frameworks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building%20reliable%20automation%20frameworks" alt="Typing SVG" />
 </a>
 
 <!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Senior-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/Focus-Senior-58a6ff?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/6+_Years-On_GitHub-58a6ff?style=for-the-badge" alt="years"/>
   
-  <img src="https://komarev.com/ghpvc/?username=SumitKumarDas1102&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=SumitKumarDas1102&style=for-the-badge&color=58a6ff" alt="views"/>
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -29,7 +29,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarDas1102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarDas1102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 🏢 **Aca Global**
 
@@ -37,7 +37,7 @@
 
 💼 **10+**
 
-🔭 Currently working on **[SumitKumarDas1102](https://github.com/SumitKumarDas1102/SumitKumarDas1102)**
+🔭 Currently working on **Automation Testing(PlayWright-TypeScript), Performance Testing(Gatling-TypeScript), API Testing(PlayWright-PostMan)**
 
 🌱 Currently learning **Advanced Playwright Patterns, Cloud-Native Testing (AWS/GCP), AI in Test Automation**
 
@@ -68,17 +68,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitKumarDas1102&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarDas1102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitKumarDas1102&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarDas1102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SumitKumarDas1102&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SumitKumarDas1102&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitKumarDas1102&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SumitKumarDas1102&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 ---
@@ -149,12 +149,12 @@
 
 <div align="center">
 
-<a href="https://github.com/SumitKumarDas1102/SumitKumarDas1102"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=SumitKumarDas1102&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="SumitKumarDas1102"/></a>
-<a href="https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-for-GitHub-API&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API-automation-for-GitHub-API"/></a>
-<a href="https://github.com/SumitKumarDas1102/Selenium_Python_POM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=Selenium_Python_POM&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Selenium_Python_POM"/></a>
-<a href="https://github.com/SumitKumarDas1102/CypressPOCDynamicEmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=CypressPOCDynamicEmail&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="CypressPOCDynamicEmail"/></a>
-<a href="https://github.com/SumitKumarDas1102/POC_API_automation_POSTMAN-NewMan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=POC_API_automation_POSTMAN-NewMan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="POC_API_automation_POSTMAN-NewMan"/></a>
-<a href="https://github.com/SumitKumarDas1102/API-automation-testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-testing&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="API-automation-testing"/></a>
+<a href="https://github.com/SumitKumarDas1102/SumitKumarDas1102"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=SumitKumarDas1102&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="SumitKumarDas1102"/></a>
+<a href="https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-for-GitHub-API&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="API-automation-for-GitHub-API"/></a>
+<a href="https://github.com/SumitKumarDas1102/Selenium_Python_POM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=Selenium_Python_POM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Selenium_Python_POM"/></a>
+<a href="https://github.com/SumitKumarDas1102/CypressPOCDynamicEmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=CypressPOCDynamicEmail&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="CypressPOCDynamicEmail"/></a>
+<a href="https://github.com/SumitKumarDas1102/POC_API_automation_POSTMAN-NewMan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=POC_API_automation_POSTMAN-NewMan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="POC_API_automation_POSTMAN-NewMan"/></a>
+<a href="https://github.com/SumitKumarDas1102/API-automation-testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-testing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="API-automation-testing"/></a>
 
 </div>
 
@@ -176,42 +176,36 @@
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API"><b>API-automation-for-GitHub-API</b></a></td>
 <td>API automation test by Sumit</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/Selenium_Python_POM"><b>Selenium_Python_POM</b></a></td>
 <td>Poc for selenium and python Page Object Model design.</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Python-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/CypressPOCDynamicEmail"><b>CypressPOCDynamicEmail</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/POC_API_automation_POSTMAN-NewMan"><b>POC_API_automation_POSTMAN-NewMan</b></a></td>
 <td>APi automation testing using postman and new man with chai a...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/API-automation-testing"><b>API-automation-testing</b></a></td>
 <td>API automation testing using Post Man and New Man - Mocha an...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
 </tr>
 </tbody>
 </table>
@@ -231,7 +225,7 @@
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
 | 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 HTML Expert | ✅ Unlocked |
+| 💻 Automation,Performance Testing Expert | ✅ Unlocked |
 
 </div>
 
@@ -276,7 +270,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [SumitKumarDas1102](https://github.com/SumitKumarDas1102) with ❤️**
 
