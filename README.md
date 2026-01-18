@@ -37,7 +37,7 @@
 
 💼 **10+**
 
-🔭 Currently working on **Automation Testing(PlayWright-TypeScript), Performance Testing(Gatling-TypeScript), API Testing(PlayWright-PostMan)**
+🔭 Currently working on **Automation Testing(PlayWright-TypeScript), Performance Testing(Gatling-TypeScript) & API Testing(PlayWright,PostMan,Karate)**
 
 🌱 Currently learning **Advanced Playwright Patterns, Cloud-Native Testing (AWS/GCP), AI in Test Automation**
 
@@ -62,24 +62,6 @@
 <img src="https://img.shields.io/badge/🧑‍🏫_Mentoring-Available-green?style=for-the-badge" alt="Mentoring"/>
 </p>
 
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SumitKumarDas1102&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumarDas1102&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SumitKumarDas1102&theme=github_dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumitKumarDas1102&theme=github_dark&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div>
 
 ---
 
@@ -145,19 +127,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/SumitKumarDas1102/SumitKumarDas1102"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=SumitKumarDas1102&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="SumitKumarDas1102"/></a>
-<a href="https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-for-GitHub-API&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="API-automation-for-GitHub-API"/></a>
-<a href="https://github.com/SumitKumarDas1102/Selenium_Python_POM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=Selenium_Python_POM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Selenium_Python_POM"/></a>
-<a href="https://github.com/SumitKumarDas1102/CypressPOCDynamicEmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=CypressPOCDynamicEmail&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="CypressPOCDynamicEmail"/></a>
-<a href="https://github.com/SumitKumarDas1102/POC_API_automation_POSTMAN-NewMan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=POC_API_automation_POSTMAN-NewMan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="POC_API_automation_POSTMAN-NewMan"/></a>
-<a href="https://github.com/SumitKumarDas1102/API-automation-testing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SumitKumarDas1102&repo=API-automation-testing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="API-automation-testing"/></a>
-
-</div>
-
 ### 📊 Top Repositories
 
 <table>
@@ -172,40 +141,32 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/SumitKumarDas1102/SumitKumarDas1102"><b>SumitKumarDas1102</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-</tr>
-<tr>
 <td><a href="https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API"><b>API-automation-for-GitHub-API</b></a></td>
 <td>API automation test by Sumit</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SumitKumarDas1102/Selenium_Python_POM"><b>Selenium_Python_POM</b></a></td>
-<td>Poc for selenium and python Page Object Model design.</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/CypressPOCDynamicEmail"><b>CypressPOCDynamicEmail</b></a></td>
 <td>No description</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/POC_API_automation_POSTMAN-NewMan"><b>POC_API_automation_POSTMAN-NewMan</b></a></td>
 <td>APi automation testing using postman and new man with chai a...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/JavaScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SumitKumarDas1102/API-automation-testing"><b>API-automation-testing</b></a></td>
 <td>API automation testing using Post Man and New Man - Mocha an...</td>
 <td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
 <td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
+<td><img src="https://img.shields.io/badge/TypeScript-gray?style=flat-square" alt="language"/></td>
 </tr>
 </tbody>
 </table>
@@ -225,7 +186,7 @@
 | 🏆 Achievement | 📊 Status |
 |:-------------:|:---------:|
 | 🎂 5+ Years on GitHub | ✅ Unlocked |
-| 💻 Automation,Performance Testing Expert | ✅ Unlocked |
+| 💻 Automation & Performance Testing | ✅ Unlocked |
 
 </div>
 
